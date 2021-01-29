@@ -1,3 +1,13 @@
+# Changes from original
+
+## Done 
+- Use React Hooks
+- Use SCSS
+- Use custom index.html
+
+## To add if needed in the future
+- Add react-router-dom 
+
 # Modern and Minimal Electron + React Starter Kit
 _Electron, React, Webpack -- Modern and up-to-date, with a handful of quality of life features included_
 
